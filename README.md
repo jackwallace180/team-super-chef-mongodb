@@ -1,9 +1,5 @@
-# :taco: :pizza: :avocado: Packer Chef AMI :avocado: :pizza: :taco: #
+# :zap: mongo :zap:
 
-### this repository installs nginx and nodejs from github!! ###
-this is in the Berksfile
+please check the kitchen.cloud.yml for subnet id and other stuff :)
 
-
-### It then uses packer which you can use to create an AMI on AWS ###
-
-AWS variables are defined in my .bash_profile
+and change the name in the packer.json to avoid confusion :) :) :)
